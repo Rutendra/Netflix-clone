@@ -129,6 +129,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 5px;
 }
 #part-2a{
     width:950px;
@@ -159,6 +160,12 @@
     color: #ffffff;
     margin-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
+}
+#image2{
+    height: 350px;
+    width: 470px;
+    background-image: url(mobile-0819.jpg);
+    background-size: cover;
 }
 
 
