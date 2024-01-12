@@ -167,5 +167,17 @@
     background-image: url(mobile-0819.jpg);
     background-size: cover;
 }
+#image3{
+    height: 350px;
+    width: 470px;
+    background-image: url(device-pile-in.png);
+    background-size: cover;
+}
+#image4{
+    height: 350px;
+    width: 470px;
+    background-image: url(kids.png);
+    background-size: cover;
+}
 
 
