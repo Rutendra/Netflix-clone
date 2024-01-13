@@ -214,3 +214,32 @@
     justify-content: center;
     align-items:center;
 }
+#checkbox{
+    height: 100px;
+    width: 85%;
+    background-color: grey;
+    padding: 0px 32px 0px 32px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#checkbox h3{
+    font-size: 20px;
+}
+.input{
+    height: 56px;
+    width: 370px;
+    padding: 24px 16pox 8px 16px;
+
+}
+#checkbox button{
+    height: 56px;
+    width: 203px;
+    background-color: red;
+
+}
+#lasta button{
+    color: grey;
+}
