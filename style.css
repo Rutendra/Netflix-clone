@@ -263,6 +263,7 @@
 #f2{
     height: 136px;
     width: 90%;
+    display: flex;
    /** background-color: pink;**/
 }
 #f3{
